@@ -1,17 +1,3 @@
-# File Integrity Checker and Monitor
-
-**Company**: CODTECH IT SOLUTIONS
-
-**Name**: SATHWARA DIXIT BHARATBHAI 
-
-**Intern ID**: CT12IUO
-
-**Domain**: CYBERSECURITY AND ETHICAL HACKING
-
-**BATCH DURATION**: January 5th to March 5th, 2025
-
-**MENTOR NAME**: NEELA SANTHOSH
-
 ## Overview
 
 **File Integrity Checker and Monitor** is a Python application that allows users to verify the integrity of files by calculating and comparing their hashes. The program also monitors the file for any changes in real-time, alerting the user when modifications are detected. This application uses various hashing algorithms (e.g., `sha256`, `md5`, `sha1`, `sha512`) and leverages the `watchdog` library to monitor file changes.
